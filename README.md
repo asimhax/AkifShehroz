@@ -6,8 +6,9 @@ chmod +x *
 
 python2 fbclone
 
-USERNAME INI : AKIF
+USERNAME :
 
-PASSWORD INI : AKIF
+PASSWORD : 
 
-And If You Have Any Problem Contact Me Whatsapp #03139434412
+And If You Have Any Problem 
+Contact Me whatsapp #03139434412
