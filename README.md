@@ -4,7 +4,7 @@ cd AkifShehroz
 
 chmod +x *
 
-python2 fbclone
+python2 Hack
 
 USERNAME :
 
